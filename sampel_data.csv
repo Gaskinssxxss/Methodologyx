@@ -1,0 +1,501 @@
+Nama,Umur,Jenis Kelamin,Pekerjaan,Pendapatan,Pendidikan Akhir,Status Kawin,Kelurahan,Kecamatan,Tipe Pilihan,Calon Dipilih,Alasan Memilih,Alasan Belum Memilih
+Fajar,45,perempuan,Guru,2000000,S3,kawin,Rabadompu,Raba,Belum Menentukan,Arahman-Ryan,Berwibawa,Visi Misi nya membosankan
+Lina,43,laki-laki,Dosen,5000000,SMA,belum kawin,Monggonao,Asakota,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Kinerja kurang bagus
+Lina,21,laki-laki,Mahasiswa,7500000,SD,kawin,Penaraga,Mpunda,Sudah Menentukan,Arahman-Ryan,Berkompeten,Belum ada yang cocok
+Ani,31,perempuan,Dosen,4000000,S2,kawin,Paruga,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Hati Nurani,Belum ada yang cocok
+Sinta,34,perempuan,Wiraswasta,10000000,S1,belum kawin,Santi,Asakota,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Kinerja kurang bagus
+Ani,24,laki-laki,Karyawan Swasta,500000,D1,belum kawin,Sadia,Mpunda,Sudah Menentukan,Arahman-Ryan,Bisa Bekerja,Belum ada yang cocok
+Agus,26,perempuan,Guru,500000,S2,kawin,Santi,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Berwibawa,Calon nya Pragmatis
+Rina,39,laki-laki,Mahasiswa,4000000,D4,kawin,Kumbe,Raba,Sudah Menentukan,Ferry-Pawan,Berwibawa,Kinerja kurang bagus
+Rina,32,perempuan,Pengusaha,7500000,D3,kawin,Monggonao,Raba,Belum Menentukan,Ferry-Pawan,Hati Nurani,Calon nya Pragmatis
+Sinta,47,laki-laki,Karyawan Swasta,1000000,SD,belum kawin,Rabadompu,Mpunda,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Kinerja kurang bagus
+Sinta,32,laki-laki,Mahasiswa,3000000,SMA,belum kawin,Santi,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Calon nya Pragmatis
+Ani,48,perempuan,Guru,7500000,S2,kawin,Dodu,Rasanae Timur,Belum Menentukan,Arahman-Ryan,Berwibawa,Visi Misi nya membosankan
+Lina,36,perempuan,Guru,10000000,S1,belum kawin,Monggonao,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Hati Nurani,Kinerja kurang bagus
+Maya,46,perempuan,Pengusaha,5000000,S1,belum kawin,Dodu,Asakota,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Visi Misi nya membosankan
+Maya,43,perempuan,Karyawan Swasta,3000000,D1,kawin,Santi,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Berwibawa,Belum ada yang cocok
+Agus,49,laki-laki,Mahasiswa,3000000,D4,kawin,Penaraga,Mpunda,Belum Menentukan,Arahman-Ryan,Berkompeten,Belum ada yang cocok
+Maya,42,perempuan,Pengusaha,4000000,D1,kawin,Rabangodu,Mpunda,Sudah Menentukan,Ferry-Pawan,Berkompeten,Kinerja kurang bagus
+Rina,38,perempuan,Pengusaha,3000000,D3,kawin,Rabangodu,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Berwibawa,Belum ada yang cocok
+Sinta,40,perempuan,Dosen,10000000,S2,kawin,Dodu,Raba,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Belum ada yang cocok
+Lina,42,laki-laki,Guru,1500000,D2,kawin,Rabadompu,Mpunda,Belum Menentukan,Arahman-Ryan,Berkompeten,Kinerja kurang bagus
+Budi,38,laki-laki,Pengusaha,4000000,SMP,kawin,Penaraga,Asakota,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Belum ada yang cocok
+Maya,27,laki-laki,Pengusaha,4000000,D4,kawin,Santi,Rasanae Timur,Belum Menentukan,Arahman-Ryan,Hati Nurani,Visi Misi nya membosankan
+Agus,31,laki-laki,Guru,3000000,S3,belum kawin,Santi,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Hati Nurani,Kinerja kurang bagus
+Dharma,40,perempuan,Wiraswasta,10000000,S1,kawin,Penaraga,Asakota,Sudah Menentukan,Arahman-Ryan,Hati Nurani,Calon nya Pragmatis
+Agus,23,laki-laki,Mahasiswa,3000000,D1,belum kawin,Kumbe,Raba,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Calon nya Pragmatis
+Agus,47,laki-laki,Wiraswasta,10000000,SD,belum kawin,Rabangodu,Mpunda,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Belum ada yang cocok
+Rudi,23,perempuan,Mahasiswa,2000000,D4,belum kawin,Dodu,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Hati Nurani,Visi Misi nya membosankan
+Rudi,28,perempuan,Wiraswasta,2000000,D1,kawin,Rabadompu,Raba,Sudah Menentukan,Arahman-Ryan,Berkompeten,Calon nya Pragmatis
+Maya,26,perempuan,Guru,7500000,D2,kawin,Penaraga,Raba,Belum Menentukan,Arahman-Ryan,Hati Nurani,Belum ada yang cocok
+Sinta,45,laki-laki,Guru,1500000,D1,kawin,Dodu,Mpunda,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Visi Misi nya membosankan
+Dharma,36,laki-laki,Dosen,500000,D1,belum kawin,Dodu,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Berwibawa,Kinerja kurang bagus
+Maya,22,perempuan,Mahasiswa,1000000,S1,belum kawin,Rabadompu,Raba,Sudah Menentukan,Ferry-Pawan,Berkompeten,Kinerja kurang bagus
+Agus,26,perempuan,Guru,4000000,D2,kawin,Monggonao,Raba,Sudah Menentukan,Ferry-Pawan,Berwibawa,Belum ada yang cocok
+Ani,34,laki-laki,Guru,1500000,SD,kawin,Dodu,Mpunda,Belum Menentukan,Ferry-Pawan,Berkompeten,Calon nya Pragmatis
+Sinta,29,perempuan,Guru,0,D1,kawin,Paruga,Raba,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Belum ada yang cocok
+Maya,28,perempuan,Mahasiswa,0,S1,kawin,Kumbe,Raba,Sudah Menentukan,Arahman-Ryan,Hati Nurani,Calon nya Pragmatis
+Budi,46,laki-laki,Mahasiswa,5000000,D4,belum kawin,Kumbe,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Kinerja kurang bagus
+Rina,28,laki-laki,Karyawan Swasta,1000000,S1,belum kawin,Sadia,Mpunda,Sudah Menentukan,Arahman-Ryan,Berwibawa,Belum ada yang cocok
+Maya,26,laki-laki,Pengusaha,5000000,S1,belum kawin,Rabadompu,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Berwibawa,Kinerja kurang bagus
+Agus,36,laki-laki,Wiraswasta,3000000,S2,belum kawin,Sadia,Asakota,Belum Menentukan,Arahman-Ryan,Punya Pengalaman,Kinerja kurang bagus
+Ani,34,laki-laki,Mahasiswa,1000000,S1,belum kawin,Kumbe,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Hati Nurani,Visi Misi nya membosankan
+Agus,37,laki-laki,Wiraswasta,10000000,D4,kawin,Monggonao,Raba,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Belum ada yang cocok
+Lina,31,laki-laki,Dosen,10000000,S2,belum kawin,Sadia,Asakota,Sudah Menentukan,Ferry-Pawan,Berwibawa,Belum ada yang cocok
+Maya,29,laki-laki,Karyawan Swasta,1000000,D3,belum kawin,Penaraga,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Visi Misi nya membosankan
+Maya,31,perempuan,Guru,2000000,SD,kawin,Paruga,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Belum ada yang cocok
+Ani,23,laki-laki,Dosen,7500000,D2,belum kawin,Dodu,Asakota,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Kinerja kurang bagus
+Lina,36,perempuan,Wiraswasta,3000000,S3,belum kawin,Paruga,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Berkompeten,Kinerja kurang bagus
+Sinta,44,perempuan,Mahasiswa,1500000,S1,kawin,Paruga,Mpunda,Belum Menentukan,Arahman-Ryan,Punya Pengalaman,Belum ada yang cocok
+Lina,37,perempuan,Pengusaha,3000000,SMP,belum kawin,Paruga,Raba,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Kinerja kurang bagus
+Budi,42,perempuan,Dosen,0,D4,belum kawin,Paruga,Asakota,Belum Menentukan,Ferry-Pawan,Berwibawa,Kinerja kurang bagus
+Lina,40,perempuan,Mahasiswa,2000000,D1,belum kawin,Rabadompu,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Hati Nurani,Visi Misi nya membosankan
+Ani,37,laki-laki,Wiraswasta,500000,D3,belum kawin,Santi,Asakota,Belum Menentukan,Arahman-Ryan,Hati Nurani,Calon nya Pragmatis
+Dharma,33,perempuan,Guru,0,S1,belum kawin,Paruga,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Berkompeten,Belum ada yang cocok
+Rudi,45,perempuan,Dosen,10000000,SD,kawin,Sadia,Asakota,Belum Menentukan,Arahman-Ryan,Berkompeten,Visi Misi nya membosankan
+Maya,30,laki-laki,Wiraswasta,1500000,SMP,belum kawin,Paruga,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Belum ada yang cocok
+Fajar,20,laki-laki,Karyawan Swasta,1500000,S3,kawin,Kumbe,Asakota,Sudah Menentukan,Arahman-Ryan,Berkompeten,Belum ada yang cocok
+Lina,32,laki-laki,Mahasiswa,0,SMP,kawin,Penaraga,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Belum ada yang cocok
+Sinta,45,perempuan,Guru,0,D4,belum kawin,Sadia,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Berwibawa,Visi Misi nya membosankan
+Rudi,30,perempuan,Pengusaha,3000000,S3,belum kawin,Paruga,Mpunda,Sudah Menentukan,Arahman-Ryan,Bisa Bekerja,Belum ada yang cocok
+Rudi,28,laki-laki,Pengusaha,7500000,D4,belum kawin,Paruga,Mpunda,Belum Menentukan,Arahman-Ryan,Bisa Bekerja,Calon nya Pragmatis
+Budi,35,laki-laki,Mahasiswa,4000000,D1,kawin,Dodu,Asakota,Belum Menentukan,Arahman-Ryan,Berkompeten,Belum ada yang cocok
+Fajar,45,laki-laki,Dosen,4000000,D4,kawin,Santi,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Kinerja kurang bagus
+Agus,49,laki-laki,Guru,5000000,SD,belum kawin,Monggonao,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Bisa Bekerja,Belum ada yang cocok
+Fajar,40,perempuan,Mahasiswa,500000,D1,belum kawin,Sadia,Asakota,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Belum ada yang cocok
+Ani,28,laki-laki,Wiraswasta,1500000,SMP,kawin,Dodu,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Bisa Bekerja,Kinerja kurang bagus
+Ani,25,perempuan,Dosen,0,D2,belum kawin,Kumbe,Raba,Belum Menentukan,Ferry-Pawan,Hati Nurani,Belum ada yang cocok
+Budi,30,perempuan,Dosen,2000000,D4,kawin,Kumbe,Raba,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Kinerja kurang bagus
+Ani,20,laki-laki,Wiraswasta,4000000,D3,kawin,Rabangodu,Asakota,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Belum ada yang cocok
+Ani,26,perempuan,Mahasiswa,3000000,SMP,kawin,Kumbe,Raba,Sudah Menentukan,Ferry-Pawan,Berwibawa,Calon nya Pragmatis
+Fajar,29,perempuan,Mahasiswa,0,SMA,belum kawin,Monggonao,Mpunda,Belum Menentukan,Arahman-Ryan,Berkompeten,Calon nya Pragmatis
+Lina,37,perempuan,Dosen,1000000,D3,kawin,Sadia,Raba,Sudah Menentukan,Ferry-Pawan,Berkompeten,Belum ada yang cocok
+Lina,24,laki-laki,Mahasiswa,10000000,S1,kawin,Rabangodu,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Berkompeten,Calon nya Pragmatis
+Agus,46,laki-laki,Dosen,2000000,SMA,kawin,Rabadompu,Asakota,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Calon nya Pragmatis
+Sinta,23,perempuan,Wiraswasta,0,D1,kawin,Paruga,Raba,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Belum ada yang cocok
+Lina,46,perempuan,Karyawan Swasta,500000,D1,kawin,Kumbe,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Berkompeten,Belum ada yang cocok
+Rudi,37,perempuan,Guru,7500000,SD,belum kawin,Rabadompu,Mpunda,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Belum ada yang cocok
+Dharma,33,perempuan,Wiraswasta,3000000,S2,kawin,Dodu,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Hati Nurani,Belum ada yang cocok
+Agus,37,laki-laki,Pengusaha,7500000,SD,kawin,Kumbe,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Lina,34,perempuan,Guru,7500000,D2,kawin,Paruga,Rasanae Timur,Belum Menentukan,Arahman-Ryan,Bisa Bekerja,Kinerja kurang bagus
+Rina,41,perempuan,Dosen,500000,SMA,kawin,Kumbe,Asakota,Sudah Menentukan,Arahman-Ryan,Berkompeten,Calon nya Pragmatis
+Rina,27,perempuan,Wiraswasta,1500000,S1,belum kawin,Kumbe,Raba,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Belum ada yang cocok
+Sinta,31,perempuan,Karyawan Swasta,3000000,S1,kawin,Monggonao,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Visi Misi nya membosankan
+Rina,33,perempuan,Karyawan Swasta,10000000,D2,kawin,Penaraga,Mpunda,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Kinerja kurang bagus
+Rudi,47,laki-laki,Pengusaha,3000000,S3,belum kawin,Rabadompu,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Berkompeten,Kinerja kurang bagus
+Dharma,26,perempuan,Guru,10000000,SD,belum kawin,Santi,Asakota,Belum Menentukan,Ferry-Pawan,Berkompeten,Kinerja kurang bagus
+Rudi,22,laki-laki,Guru,2000000,SMA,kawin,Paruga,Rasanae Timur,Belum Menentukan,Arahman-Ryan,Bisa Bekerja,Calon nya Pragmatis
+Dharma,44,laki-laki,Wiraswasta,7500000,SD,belum kawin,Santi,Mpunda,Belum Menentukan,Arahman-Ryan,Berwibawa,Visi Misi nya membosankan
+Fajar,33,laki-laki,Guru,10000000,D1,kawin,Paruga,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Berwibawa,Calon nya Pragmatis
+Rudi,25,laki-laki,Karyawan Swasta,1500000,S3,belum kawin,Dodu,Mpunda,Sudah Menentukan,Arahman-Ryan,Berkompeten,Kinerja kurang bagus
+Rina,36,perempuan,Guru,1000000,S2,belum kawin,Rabadompu,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Hati Nurani,Belum ada yang cocok
+Lina,43,perempuan,Dosen,5000000,D4,belum kawin,Rabangodu,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Belum ada yang cocok
+Lina,31,laki-laki,Dosen,10000000,D3,kawin,Rabangodu,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Calon nya Pragmatis
+Dharma,24,laki-laki,Dosen,1500000,S3,belum kawin,Dodu,Mpunda,Sudah Menentukan,Ferry-Pawan,Berwibawa,Belum ada yang cocok
+Rina,34,laki-laki,Pengusaha,7500000,S1,kawin,Sadia,Asakota,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Belum ada yang cocok
+Rina,30,perempuan,Dosen,2000000,SMA,kawin,Penaraga,Raba,Sudah Menentukan,Ferry-Pawan,Berkompeten,Visi Misi nya membosankan
+Rudi,48,perempuan,Guru,1500000,D2,kawin,Rabangodu,Mpunda,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Visi Misi nya membosankan
+Dharma,27,perempuan,Mahasiswa,7500000,D1,kawin,Kumbe,Asakota,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Calon nya Pragmatis
+Rina,35,laki-laki,Karyawan Swasta,1500000,S1,kawin,Kumbe,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Hati Nurani,Visi Misi nya membosankan
+Agus,20,laki-laki,Pengusaha,3000000,D3,belum kawin,Monggonao,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Berkompeten,Kinerja kurang bagus
+Maya,21,laki-laki,Mahasiswa,4000000,D4,belum kawin,Sadia,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Calon nya Pragmatis
+Agus,48,laki-laki,Wiraswasta,5000000,SMP,belum kawin,Sadia,Mpunda,Sudah Menentukan,Arahman-Ryan,Bisa Bekerja,Belum ada yang cocok
+Maya,37,perempuan,Guru,2000000,SMP,belum kawin,Dodu,Asakota,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Belum ada yang cocok
+Agus,41,perempuan,Dosen,1000000,D3,belum kawin,Penaraga,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Berwibawa,Calon nya Pragmatis
+Fajar,28,perempuan,Pengusaha,5000000,S2,belum kawin,Santi,Raba,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Belum ada yang cocok
+Ani,27,laki-laki,Dosen,1000000,S1,belum kawin,Monggonao,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Berkompeten,Visi Misi nya membosankan
+Agus,39,perempuan,Pengusaha,3000000,S1,belum kawin,Kumbe,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Belum ada yang cocok
+Dharma,36,perempuan,Mahasiswa,0,S3,belum kawin,Santi,Asakota,Belum Menentukan,Ferry-Pawan,Berwibawa,Belum ada yang cocok
+Agus,33,perempuan,Mahasiswa,1000000,S3,belum kawin,Rabangodu,Mpunda,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Belum ada yang cocok
+Rudi,30,laki-laki,Wiraswasta,1500000,SMA,belum kawin,Santi,Asakota,Sudah Menentukan,Arahman-Ryan,Berkompeten,Calon nya Pragmatis
+Ani,25,laki-laki,Guru,0,S3,belum kawin,Kumbe,Mpunda,Belum Menentukan,Ferry-Pawan,Hati Nurani,Belum ada yang cocok
+Rina,40,laki-laki,Karyawan Swasta,0,SD,kawin,Paruga,Raba,Belum Menentukan,Arahman-Ryan,Bisa Bekerja,Visi Misi nya membosankan
+Agus,27,laki-laki,Wiraswasta,5000000,S3,kawin,Rabadompu,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Berkompeten,Calon nya Pragmatis
+Maya,30,perempuan,Guru,3000000,D2,belum kawin,Paruga,Asakota,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Belum ada yang cocok
+Sinta,38,laki-laki,Mahasiswa,0,D2,belum kawin,Kumbe,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Belum ada yang cocok
+Rina,41,perempuan,Wiraswasta,1000000,S3,belum kawin,Kumbe,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Bisa Bekerja,Belum ada yang cocok
+Ani,25,laki-laki,Guru,4000000,SMP,kawin,Dodu,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Budi,21,perempuan,Mahasiswa,4000000,S3,kawin,Santi,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Visi Misi nya membosankan
+Fajar,49,laki-laki,Dosen,4000000,D2,kawin,Sadia,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Berkompeten,Visi Misi nya membosankan
+Budi,48,perempuan,Dosen,10000000,S2,belum kawin,Rabangodu,Mpunda,Belum Menentukan,Ferry-Pawan,Berkompeten,Visi Misi nya membosankan
+Lina,29,perempuan,Karyawan Swasta,500000,S3,belum kawin,Rabangodu,Raba,Belum Menentukan,Arahman-Ryan,Punya Pengalaman,Kinerja kurang bagus
+Rina,36,perempuan,Mahasiswa,3000000,S3,kawin,Paruga,Rasanae Timur,Belum Menentukan,Arahman-Ryan,Berwibawa,Kinerja kurang bagus
+Ani,25,laki-laki,Guru,7500000,D3,kawin,Penaraga,Asakota,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Visi Misi nya membosankan
+Rudi,33,perempuan,Pengusaha,1500000,S3,belum kawin,Dodu,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Berkompeten,Calon nya Pragmatis
+Fajar,34,laki-laki,Dosen,1000000,D1,kawin,Santi,Raba,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Calon nya Pragmatis
+Budi,22,perempuan,Dosen,1000000,D1,kawin,Monggonao,Asakota,Belum Menentukan,Arahman-Ryan,Bisa Bekerja,Belum ada yang cocok
+Rina,33,perempuan,Wiraswasta,2000000,D2,belum kawin,Penaraga,Raba,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Visi Misi nya membosankan
+Ani,43,perempuan,Guru,2000000,SD,kawin,Sadia,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Berkompeten,Belum ada yang cocok
+Budi,24,laki-laki,Pengusaha,1500000,S3,kawin,Paruga,Raba,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Calon nya Pragmatis
+Fajar,42,laki-laki,Pengusaha,4000000,D3,belum kawin,Monggonao,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Berwibawa,Kinerja kurang bagus
+Dharma,46,perempuan,Wiraswasta,3000000,SMP,kawin,Rabadompu,Asakota,Belum Menentukan,Arahman-Ryan,Hati Nurani,Belum ada yang cocok
+Sinta,44,perempuan,Pengusaha,4000000,S3,belum kawin,Monggonao,Raba,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Belum ada yang cocok
+Maya,29,laki-laki,Pengusaha,1000000,SMP,belum kawin,Rabadompu,Mpunda,Sudah Menentukan,Arahman-Ryan,Berkompeten,Visi Misi nya membosankan
+Budi,22,perempuan,Guru,0,S1,belum kawin,Paruga,Asakota,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Kinerja kurang bagus
+Ani,20,perempuan,Guru,4000000,D2,kawin,Sadia,Raba,Belum Menentukan,Arahman-Ryan,Berkompeten,Belum ada yang cocok
+Rina,50,laki-laki,Mahasiswa,2000000,SMP,kawin,Penaraga,Asakota,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Belum ada yang cocok
+Sinta,26,laki-laki,Dosen,1000000,SMP,kawin,Rabangodu,Asakota,Sudah Menentukan,Ferry-Pawan,Berkompeten,Kinerja kurang bagus
+Budi,45,laki-laki,Guru,0,S3,belum kawin,Paruga,Raba,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Kinerja kurang bagus
+Ani,24,laki-laki,Mahasiswa,500000,S2,belum kawin,Santi,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Belum ada yang cocok
+Maya,31,laki-laki,Guru,3000000,SD,kawin,Rabadompu,Mpunda,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Calon nya Pragmatis
+Budi,36,perempuan,Guru,0,D2,kawin,Monggonao,Raba,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Visi Misi nya membosankan
+Ani,41,perempuan,Dosen,1500000,SMA,belum kawin,Paruga,Asakota,Belum Menentukan,Arahman-Ryan,Hati Nurani,Visi Misi nya membosankan
+Budi,50,laki-laki,Guru,10000000,S3,belum kawin,Dodu,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Berwibawa,Visi Misi nya membosankan
+Sinta,48,laki-laki,Dosen,5000000,D1,belum kawin,Santi,Asakota,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Visi Misi nya membosankan
+Sinta,30,laki-laki,Wiraswasta,10000000,D1,belum kawin,Monggonao,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Bisa Bekerja,Calon nya Pragmatis
+Ani,39,perempuan,Wiraswasta,7500000,D2,kawin,Penaraga,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Kinerja kurang bagus
+Ani,29,laki-laki,Wiraswasta,3000000,SMP,belum kawin,Santi,Asakota,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Belum ada yang cocok
+Fajar,43,perempuan,Wiraswasta,4000000,D1,belum kawin,Paruga,Mpunda,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Rudi,49,perempuan,Mahasiswa,500000,S3,belum kawin,Penaraga,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Kinerja kurang bagus
+Dharma,35,laki-laki,Pengusaha,3000000,D4,kawin,Penaraga,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Berwibawa,Kinerja kurang bagus
+Dharma,39,perempuan,Dosen,7500000,D1,kawin,Santi,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Berkompeten,Kinerja kurang bagus
+Lina,31,perempuan,Wiraswasta,10000000,SMP,belum kawin,Kumbe,Raba,Belum Menentukan,Ferry-Pawan,Hati Nurani,Belum ada yang cocok
+Budi,46,perempuan,Wiraswasta,1000000,S2,kawin,Rabangodu,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Berkompeten,Kinerja kurang bagus
+Agus,25,laki-laki,Pengusaha,2000000,D4,kawin,Rabadompu,Asakota,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Visi Misi nya membosankan
+Lina,23,laki-laki,Karyawan Swasta,500000,D4,kawin,Dodu,Mpunda,Belum Menentukan,Ferry-Pawan,Berkompeten,Kinerja kurang bagus
+Fajar,31,laki-laki,Wiraswasta,1500000,D4,belum kawin,Dodu,Asakota,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Kinerja kurang bagus
+Lina,33,laki-laki,Pengusaha,2000000,SMP,kawin,Rabangodu,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Berkompeten,Visi Misi nya membosankan
+Ani,37,laki-laki,Guru,4000000,SD,belum kawin,Dodu,Mpunda,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Kinerja kurang bagus
+Ani,28,laki-laki,Pengusaha,10000000,SD,belum kawin,Monggonao,Mpunda,Belum Menentukan,Ferry-Pawan,Hati Nurani,Belum ada yang cocok
+Budi,32,perempuan,Dosen,5000000,S3,belum kawin,Kumbe,Rasanae Timur,Belum Menentukan,Arahman-Ryan,Berkompeten,Belum ada yang cocok
+Dharma,24,perempuan,Karyawan Swasta,4000000,S3,belum kawin,Santi,Asakota,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Kinerja kurang bagus
+Maya,37,laki-laki,Dosen,10000000,S1,kawin,Santi,Rasanae Timur,Belum Menentukan,Arahman-Ryan,Punya Pengalaman,Visi Misi nya membosankan
+Maya,25,laki-laki,Wiraswasta,1500000,S2,belum kawin,Rabadompu,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Berwibawa,Calon nya Pragmatis
+Rudi,29,laki-laki,Guru,7500000,SMP,belum kawin,Kumbe,Mpunda,Sudah Menentukan,Arahman-Ryan,Berwibawa,Belum ada yang cocok
+Maya,29,perempuan,Guru,1000000,D3,kawin,Rabangodu,Raba,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Calon nya Pragmatis
+Budi,43,laki-laki,Mahasiswa,2000000,SMA,belum kawin,Penaraga,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Berkompeten,Kinerja kurang bagus
+Ani,43,laki-laki,Guru,10000000,SMP,kawin,Rabadompu,Mpunda,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Belum ada yang cocok
+Fajar,40,laki-laki,Karyawan Swasta,7500000,SD,kawin,Sadia,Rasanae Timur,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Visi Misi nya membosankan
+Lina,27,laki-laki,Pengusaha,4000000,D4,kawin,Monggonao,Raba,Belum Menentukan,Arahman-Ryan,Punya Pengalaman,Kinerja kurang bagus
+Agus,31,laki-laki,Pengusaha,1500000,SMP,kawin,Dodu,Mpunda,Sudah Menentukan,Ferry-Pawan,Berkompeten,Belum ada yang cocok
+Agus,34,perempuan,Guru,0,S2,belum kawin,Kumbe,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Berwibawa,Kinerja kurang bagus
+Rina,37,perempuan,Wiraswasta,1500000,SMA,belum kawin,Rabadompu,Mpunda,Sudah Menentukan,Arahman-Ryan,Berkompeten,Visi Misi nya membosankan
+Maya,48,laki-laki,Mahasiswa,10000000,D3,belum kawin,Monggonao,Raba,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Visi Misi nya membosankan
+Sinta,28,perempuan,Dosen,0,D4,belum kawin,Kumbe,Mpunda,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Calon nya Pragmatis
+Rina,49,perempuan,Dosen,0,SMA,belum kawin,Monggonao,Mpunda,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Rina,36,perempuan,Mahasiswa,4000000,SMP,kawin,Kumbe,Asakota,Belum Menentukan,Arahman-Ryan,Punya Pengalaman,Calon nya Pragmatis
+Ani,45,laki-laki,Wiraswasta,7500000,SMP,kawin,Penaraga,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Visi Misi nya membosankan
+Sinta,25,laki-laki,Dosen,1500000,S1,kawin,Rabangodu,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Berkompeten,Calon nya Pragmatis
+Dharma,44,perempuan,Mahasiswa,0,SMP,kawin,Monggonao,Raba,Belum Menentukan,Ferry-Pawan,Berwibawa,Visi Misi nya membosankan
+Fajar,35,laki-laki,Wiraswasta,0,SMA,kawin,Rabadompu,Asakota,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Maya,28,perempuan,Pengusaha,1000000,SMA,belum kawin,Dodu,Raba,Belum Menentukan,Ferry-Pawan,Berkompeten,Kinerja kurang bagus
+Budi,35,laki-laki,Dosen,500000,SMA,kawin,Kumbe,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Visi Misi nya membosankan
+Ani,20,perempuan,Karyawan Swasta,500000,S1,belum kawin,Penaraga,Asakota,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Belum ada yang cocok
+Rina,24,laki-laki,Mahasiswa,1500000,S1,kawin,Santi,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Hati Nurani,Visi Misi nya membosankan
+Rina,30,laki-laki,Guru,10000000,D3,belum kawin,Penaraga,Asakota,Sudah Menentukan,Arahman-Ryan,Berkompeten,Kinerja kurang bagus
+Budi,50,perempuan,Mahasiswa,7500000,SMP,kawin,Santi,Mpunda,Sudah Menentukan,Arahman-Ryan,Berwibawa,Kinerja kurang bagus
+Rina,26,laki-laki,Mahasiswa,1500000,D4,belum kawin,Paruga,Rasanae Timur,Belum Menentukan,Arahman-Ryan,Berkompeten,Kinerja kurang bagus
+Rudi,36,laki-laki,Karyawan Swasta,1000000,S3,belum kawin,Rabangodu,Asakota,Belum Menentukan,Ferry-Pawan,Hati Nurani,Calon nya Pragmatis
+Dharma,44,perempuan,Dosen,500000,D1,kawin,Monggonao,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Berkompeten,Kinerja kurang bagus
+Lina,30,laki-laki,Guru,7500000,D3,kawin,Kumbe,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Berkompeten,Kinerja kurang bagus
+Fajar,25,perempuan,Dosen,2000000,S3,belum kawin,Kumbe,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Berkompeten,Calon nya Pragmatis
+Fajar,20,perempuan,Mahasiswa,3000000,SD,belum kawin,Rabangodu,Raba,Belum Menentukan,Arahman-Ryan,Bisa Bekerja,Kinerja kurang bagus
+Fajar,40,laki-laki,Wiraswasta,500000,D1,kawin,Santi,Raba,Sudah Menentukan,Arahman-Ryan,Bisa Bekerja,Visi Misi nya membosankan
+Fajar,35,laki-laki,Dosen,1500000,D1,belum kawin,Rabadompu,Raba,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Kinerja kurang bagus
+Sinta,41,laki-laki,Guru,4000000,S2,kawin,Monggonao,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Hati Nurani,Calon nya Pragmatis
+Lina,38,laki-laki,Pengusaha,500000,SMP,belum kawin,Penaraga,Asakota,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Visi Misi nya membosankan
+Rudi,32,laki-laki,Guru,4000000,D2,belum kawin,Monggonao,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Visi Misi nya membosankan
+Dharma,50,laki-laki,Karyawan Swasta,10000000,D2,kawin,Dodu,Asakota,Belum Menentukan,Ferry-Pawan,Hati Nurani,Calon nya Pragmatis
+Rina,32,laki-laki,Dosen,500000,D2,belum kawin,Kumbe,Asakota,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Calon nya Pragmatis
+Lina,30,perempuan,Dosen,5000000,S2,belum kawin,Monggonao,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Berwibawa,Calon nya Pragmatis
+Rina,41,laki-laki,Wiraswasta,10000000,D2,belum kawin,Penaraga,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Punya Pengalaman,Calon nya Pragmatis
+Rina,41,laki-laki,Mahasiswa,5000000,SMA,belum kawin,Paruga,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Hati Nurani,Belum ada yang cocok
+Sinta,36,laki-laki,Karyawan Swasta,500000,SMA,belum kawin,Rabangodu,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Belum ada yang cocok
+Fajar,47,laki-laki,Guru,500000,D3,belum kawin,Kumbe,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Calon nya Pragmatis
+Ani,21,perempuan,Mahasiswa,7500000,D1,kawin,Penaraga,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Kinerja kurang bagus
+Agus,24,perempuan,Mahasiswa,500000,D3,belum kawin,Paruga,Raba,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Visi Misi nya membosankan
+Sinta,31,laki-laki,Wiraswasta,1500000,S1,kawin,Dodu,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Berkompeten,Visi Misi nya membosankan
+Ani,39,perempuan,Guru,10000000,S3,belum kawin,Dodu,Mpunda,Sudah Menentukan,Ferry-Pawan,Berwibawa,Kinerja kurang bagus
+Rudi,27,perempuan,Dosen,1000000,D1,kawin,Santi,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Calon nya Pragmatis
+Maya,42,perempuan,Dosen,0,SD,kawin,Sadia,Raba,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Calon nya Pragmatis
+Rina,32,perempuan,Mahasiswa,500000,D3,belum kawin,Kumbe,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Berwibawa,Belum ada yang cocok
+Rina,34,perempuan,Guru,7500000,S2,kawin,Rabadompu,Raba,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Belum ada yang cocok
+Agus,30,perempuan,Pengusaha,7500000,SMA,belum kawin,Dodu,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Kinerja kurang bagus
+Maya,22,laki-laki,Mahasiswa,5000000,D2,kawin,Rabadompu,Raba,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Maya,44,laki-laki,Wiraswasta,0,SD,belum kawin,Santi,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Calon nya Pragmatis
+Maya,27,perempuan,Dosen,4000000,S1,belum kawin,Rabangodu,Asakota,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Belum ada yang cocok
+Fajar,25,laki-laki,Pengusaha,2000000,D3,kawin,Monggonao,Mpunda,Sudah Menentukan,Arahman-Ryan,Berkompeten,Calon nya Pragmatis
+Maya,36,laki-laki,Mahasiswa,1000000,D2,kawin,Santi,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Belum ada yang cocok
+Rina,42,laki-laki,Pengusaha,1000000,D4,kawin,Kumbe,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Visi Misi nya membosankan
+Fajar,36,perempuan,Wiraswasta,7500000,SMA,belum kawin,Dodu,Asakota,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Visi Misi nya membosankan
+Agus,35,laki-laki,Wiraswasta,500000,D3,kawin,Monggonao,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Visi Misi nya membosankan
+Maya,45,laki-laki,Dosen,3000000,S2,belum kawin,Kumbe,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Berkompeten,Kinerja kurang bagus
+Budi,39,laki-laki,Mahasiswa,2000000,S3,kawin,Dodu,Asakota,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Belum ada yang cocok
+Fajar,30,perempuan,Wiraswasta,10000000,S3,kawin,Paruga,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Berwibawa,Belum ada yang cocok
+Fajar,34,laki-laki,Mahasiswa,7500000,S3,kawin,Dodu,Rasanae Timur,Belum Menentukan,Arahman-Ryan,Punya Pengalaman,Visi Misi nya membosankan
+Rina,50,perempuan,Karyawan Swasta,3000000,S2,kawin,Dodu,Mpunda,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Visi Misi nya membosankan
+Sinta,35,perempuan,Karyawan Swasta,2000000,D1,kawin,Sadia,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Calon nya Pragmatis
+Rina,28,perempuan,Wiraswasta,0,S3,belum kawin,Dodu,Raba,Belum Menentukan,Arahman-Ryan,Berwibawa,Calon nya Pragmatis
+Ani,22,laki-laki,Mahasiswa,500000,SD,belum kawin,Santi,Asakota,Sudah Menentukan,Arahman-Ryan,Hati Nurani,Belum ada yang cocok
+Ani,31,perempuan,Mahasiswa,5000000,D1,belum kawin,Sadia,Asakota,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Belum ada yang cocok
+Sinta,25,perempuan,Mahasiswa,1500000,D1,kawin,Santi,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Hati Nurani,Belum ada yang cocok
+Rina,31,laki-laki,Mahasiswa,4000000,SMP,kawin,Kumbe,Asakota,Belum Menentukan,Arahman-Ryan,Berkompeten,Kinerja kurang bagus
+Dharma,23,perempuan,Pengusaha,7500000,SD,kawin,Kumbe,Raba,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Calon nya Pragmatis
+Fajar,29,laki-laki,Pengusaha,1500000,SMA,belum kawin,Rabadompu,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Belum ada yang cocok
+Maya,37,laki-laki,Pengusaha,3000000,D3,belum kawin,Santi,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Berwibawa,Kinerja kurang bagus
+Rina,30,perempuan,Wiraswasta,7500000,S1,kawin,Rabangodu,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Kinerja kurang bagus
+Fajar,29,perempuan,Pengusaha,3000000,SMA,kawin,Rabadompu,Mpunda,Belum Menentukan,Arahman-Ryan,Berwibawa,Belum ada yang cocok
+Ani,39,perempuan,Dosen,3000000,D2,kawin,Kumbe,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Belum ada yang cocok
+Budi,31,perempuan,Dosen,0,SMP,kawin,Dodu,Asakota,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Lina,44,perempuan,Pengusaha,5000000,S2,belum kawin,Kumbe,Mpunda,Sudah Menentukan,Ferry-Pawan,Berkompeten,Visi Misi nya membosankan
+Agus,28,perempuan,Mahasiswa,7500000,S2,kawin,Kumbe,Mpunda,Belum Menentukan,Arahman-Ryan,Berkompeten,Calon nya Pragmatis
+Fajar,49,laki-laki,Wiraswasta,5000000,SMA,belum kawin,Dodu,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Kinerja kurang bagus
+Fajar,26,laki-laki,Mahasiswa,4000000,SMP,kawin,Rabadompu,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Calon nya Pragmatis
+Agus,31,laki-laki,Guru,500000,D3,belum kawin,Kumbe,Raba,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Calon nya Pragmatis
+Rina,32,perempuan,Mahasiswa,2000000,S1,kawin,Sadia,Mpunda,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Kinerja kurang bagus
+Sinta,47,perempuan,Karyawan Swasta,0,D3,belum kawin,Sadia,Asakota,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Belum ada yang cocok
+Dharma,21,perempuan,Dosen,500000,S3,kawin,Monggonao,Raba,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Calon nya Pragmatis
+Fajar,30,perempuan,Pengusaha,5000000,SMP,kawin,Rabadompu,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Kinerja kurang bagus
+Rina,50,laki-laki,Karyawan Swasta,4000000,SD,kawin,Penaraga,Asakota,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Calon nya Pragmatis
+Budi,33,laki-laki,Wiraswasta,4000000,D1,kawin,Paruga,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Budi,39,laki-laki,Guru,4000000,S2,belum kawin,Sadia,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Berwibawa,Kinerja kurang bagus
+Dharma,34,perempuan,Dosen,10000000,SD,kawin,Dodu,Rasanae Timur,Belum Menentukan,Arahman-Ryan,Punya Pengalaman,Visi Misi nya membosankan
+Rudi,23,perempuan,Dosen,0,S2,belum kawin,Dodu,Asakota,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Calon nya Pragmatis
+Fajar,38,laki-laki,Dosen,1000000,D2,belum kawin,Rabadompu,Mpunda,Sudah Menentukan,Arahman-Ryan,Berkompeten,Kinerja kurang bagus
+Sinta,48,perempuan,Mahasiswa,500000,SD,kawin,Sadia,Raba,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Sinta,45,laki-laki,Dosen,1000000,SMA,belum kawin,Rabadompu,Rasanae Timur,Belum Menentukan,Arahman-Ryan,Punya Pengalaman,Visi Misi nya membosankan
+Rudi,25,perempuan,Dosen,3000000,D2,kawin,Sadia,Raba,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Calon nya Pragmatis
+Rudi,28,laki-laki,Guru,500000,S3,kawin,Kumbe,Raba,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Calon nya Pragmatis
+Fajar,21,laki-laki,Pengusaha,500000,SD,belum kawin,Dodu,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Kinerja kurang bagus
+Rina,38,laki-laki,Karyawan Swasta,3000000,SD,belum kawin,Paruga,Asakota,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Calon nya Pragmatis
+Lina,28,laki-laki,Mahasiswa,1000000,D2,kawin,Monggonao,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Kinerja kurang bagus
+Budi,36,perempuan,Dosen,1500000,S1,belum kawin,Rabangodu,Rasanae Timur,Belum Menentukan,Arahman-Ryan,Punya Pengalaman,Visi Misi nya membosankan
+Lina,44,perempuan,Karyawan Swasta,1000000,D4,kawin,Sadia,Mpunda,Sudah Menentukan,Arahman-Ryan,Berkompeten,Visi Misi nya membosankan
+Agus,32,perempuan,Karyawan Swasta,4000000,S1,belum kawin,Monggonao,Asakota,Sudah Menentukan,Arahman-Ryan,Berwibawa,Calon nya Pragmatis
+Dharma,36,laki-laki,Guru,2000000,D2,kawin,Penaraga,Raba,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Rudi,26,perempuan,Mahasiswa,10000000,SMA,kawin,Sadia,Raba,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Calon nya Pragmatis
+Fajar,36,laki-laki,Pengusaha,5000000,D3,belum kawin,Sadia,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Punya Pengalaman,Belum ada yang cocok
+Dharma,27,perempuan,Guru,1000000,D4,kawin,Penaraga,Asakota,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Kinerja kurang bagus
+Lina,23,perempuan,Wiraswasta,7500000,D4,belum kawin,Kumbe,Mpunda,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Ani,49,laki-laki,Karyawan Swasta,3000000,SMP,belum kawin,Monggonao,Asakota,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Maya,27,perempuan,Mahasiswa,2000000,SMP,belum kawin,Penaraga,Raba,Belum Menentukan,Ferry-Pawan,Berwibawa,Kinerja kurang bagus
+Lina,24,laki-laki,Mahasiswa,5000000,S3,belum kawin,Monggonao,Raba,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Kinerja kurang bagus
+Budi,30,perempuan,Dosen,2000000,D4,belum kawin,Santi,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Bisa Bekerja,Visi Misi nya membosankan
+Budi,35,perempuan,Guru,0,SD,belum kawin,Santi,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Berkompeten,Calon nya Pragmatis
+Ani,27,laki-laki,Pengusaha,2000000,S2,kawin,Penaraga,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Berkompeten,Kinerja kurang bagus
+Lina,50,perempuan,Dosen,2000000,D2,belum kawin,Santi,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Visi Misi nya membosankan
+Rudi,43,laki-laki,Pengusaha,0,S3,belum kawin,Rabangodu,Raba,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Belum ada yang cocok
+Dharma,41,laki-laki,Guru,500000,S3,kawin,Rabangodu,Mpunda,Belum Menentukan,Arahman-Ryan,Bisa Bekerja,Kinerja kurang bagus
+Sinta,22,laki-laki,Pengusaha,7500000,D4,kawin,Kumbe,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Hati Nurani,Calon nya Pragmatis
+Agus,26,laki-laki,Dosen,1500000,SMA,belum kawin,Dodu,Mpunda,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Visi Misi nya membosankan
+Lina,48,perempuan,Wiraswasta,1000000,D1,belum kawin,Kumbe,Mpunda,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Kinerja kurang bagus
+Budi,43,laki-laki,Mahasiswa,1500000,D3,kawin,Penaraga,Mpunda,Sudah Menentukan,Arahman-Ryan,Bisa Bekerja,Belum ada yang cocok
+Ani,35,laki-laki,Mahasiswa,4000000,D1,belum kawin,Sadia,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Berwibawa,Kinerja kurang bagus
+Ani,39,laki-laki,Karyawan Swasta,10000000,S1,kawin,Santi,Raba,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Calon nya Pragmatis
+Rudi,25,perempuan,Karyawan Swasta,0,S3,kawin,Rabangodu,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Visi Misi nya membosankan
+Maya,22,perempuan,Dosen,10000000,S2,belum kawin,Santi,Asakota,Sudah Menentukan,Ferry-Pawan,Berkompeten,Calon nya Pragmatis
+Rudi,44,perempuan,Mahasiswa,7500000,S1,belum kawin,Dodu,Raba,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Calon nya Pragmatis
+Maya,37,perempuan,Dosen,5000000,D3,kawin,Kumbe,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Hati Nurani,Belum ada yang cocok
+Agus,23,laki-laki,Pengusaha,5000000,SD,belum kawin,Monggonao,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Visi Misi nya membosankan
+Lina,26,perempuan,Mahasiswa,3000000,S1,belum kawin,Santi,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Berkompeten,Visi Misi nya membosankan
+Maya,50,perempuan,Wiraswasta,10000000,SMA,kawin,Rabadompu,Mpunda,Belum Menentukan,Ferry-Pawan,Berwibawa,Belum ada yang cocok
+Rudi,47,laki-laki,Dosen,7500000,D3,belum kawin,Kumbe,Asakota,Sudah Menentukan,Arahman-Ryan,Berwibawa,Belum ada yang cocok
+Dharma,37,perempuan,Guru,1000000,S3,kawin,Paruga,Asakota,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Belum ada yang cocok
+Budi,50,perempuan,Dosen,10000000,SD,kawin,Penaraga,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Bisa Bekerja,Belum ada yang cocok
+Budi,39,perempuan,Guru,10000000,D4,belum kawin,Penaraga,Raba,Belum Menentukan,Ferry-Pawan,Berwibawa,Visi Misi nya membosankan
+Maya,26,perempuan,Pengusaha,4000000,D2,kawin,Monggonao,Mpunda,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Visi Misi nya membosankan
+Dharma,46,perempuan,Karyawan Swasta,0,D4,belum kawin,Monggonao,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Visi Misi nya membosankan
+Dharma,43,perempuan,Pengusaha,1500000,D4,belum kawin,Rabangodu,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Berkompeten,Belum ada yang cocok
+Agus,42,perempuan,Pengusaha,3000000,SMP,belum kawin,Sadia,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Berwibawa,Calon nya Pragmatis
+Agus,27,laki-laki,Wiraswasta,4000000,D3,kawin,Kumbe,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Bisa Bekerja,Kinerja kurang bagus
+Budi,50,laki-laki,Dosen,4000000,SD,kawin,Kumbe,Raba,Sudah Menentukan,Arahman-Ryan,Berkompeten,Calon nya Pragmatis
+Lina,41,perempuan,Pengusaha,2000000,SMP,kawin,Sadia,Rasanae Timur,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Belum ada yang cocok
+Dharma,35,laki-laki,Karyawan Swasta,4000000,S2,belum kawin,Santi,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Bisa Bekerja,Calon nya Pragmatis
+Budi,42,laki-laki,Pengusaha,5000000,S1,kawin,Santi,Mpunda,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Sinta,24,laki-laki,Guru,4000000,SMP,kawin,Santi,Asakota,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Kinerja kurang bagus
+Agus,34,perempuan,Wiraswasta,5000000,SMP,kawin,Dodu,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Hati Nurani,Calon nya Pragmatis
+Rina,50,perempuan,Pengusaha,10000000,S1,belum kawin,Kumbe,Raba,Belum Menentukan,Arahman-Ryan,Berwibawa,Visi Misi nya membosankan
+Lina,33,perempuan,Guru,10000000,D1,kawin,Monggonao,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Kinerja kurang bagus
+Lina,44,laki-laki,Wiraswasta,3000000,S1,kawin,Monggonao,Mpunda,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Rina,45,perempuan,Mahasiswa,4000000,D2,kawin,Sadia,Mpunda,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Visi Misi nya membosankan
+Rudi,50,laki-laki,Pengusaha,1000000,SMA,belum kawin,Penaraga,Raba,Belum Menentukan,Ferry-Pawan,Berwibawa,Calon nya Pragmatis
+Rina,48,laki-laki,Karyawan Swasta,500000,D4,kawin,Monggonao,Raba,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Visi Misi nya membosankan
+Sinta,43,laki-laki,Mahasiswa,0,SMA,kawin,Paruga,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Kinerja kurang bagus
+Rudi,26,laki-laki,Wiraswasta,500000,D4,belum kawin,Rabadompu,Asakota,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Calon nya Pragmatis
+Sinta,32,perempuan,Mahasiswa,0,S1,belum kawin,Monggonao,Asakota,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Calon nya Pragmatis
+Ani,30,laki-laki,Guru,10000000,S1,belum kawin,Monggonao,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Berkompeten,Calon nya Pragmatis
+Maya,27,laki-laki,Mahasiswa,0,SD,kawin,Santi,Raba,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Kinerja kurang bagus
+Lina,26,laki-laki,Guru,1000000,SMA,kawin,Monggonao,Mpunda,Sudah Menentukan,Arahman-Ryan,Hati Nurani,Visi Misi nya membosankan
+Rudi,36,perempuan,Wiraswasta,3000000,S1,kawin,Santi,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Visi Misi nya membosankan
+Agus,25,perempuan,Wiraswasta,7500000,D3,kawin,Paruga,Asakota,Belum Menentukan,Arahman-Ryan,Berkompeten,Belum ada yang cocok
+Maya,31,laki-laki,Karyawan Swasta,5000000,D2,belum kawin,Santi,Mpunda,Belum Menentukan,Ferry-Pawan,Berwibawa,Calon nya Pragmatis
+Rudi,23,perempuan,Dosen,4000000,S1,belum kawin,Rabangodu,Mpunda,Belum Menentukan,Ferry-Pawan,Berwibawa,Kinerja kurang bagus
+Maya,27,perempuan,Karyawan Swasta,4000000,D3,kawin,Paruga,Mpunda,Belum Menentukan,Arahman-Ryan,Bisa Bekerja,Calon nya Pragmatis
+Sinta,29,laki-laki,Wiraswasta,4000000,S3,belum kawin,Paruga,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Berwibawa,Kinerja kurang bagus
+Ani,31,laki-laki,Karyawan Swasta,1500000,D2,belum kawin,Kumbe,Asakota,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Visi Misi nya membosankan
+Ani,29,laki-laki,Mahasiswa,10000000,SMP,belum kawin,Santi,Mpunda,Belum Menentukan,Arahman-Ryan,Berkompeten,Belum ada yang cocok
+Sinta,37,laki-laki,Guru,2000000,D1,kawin,Dodu,Asakota,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Belum ada yang cocok
+Rina,24,laki-laki,Dosen,2000000,SMA,belum kawin,Rabangodu,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Hati Nurani,Visi Misi nya membosankan
+Agus,46,laki-laki,Guru,0,SMA,belum kawin,Rabangodu,Asakota,Sudah Menentukan,Arahman-Ryan,Bisa Bekerja,Kinerja kurang bagus
+Fajar,41,laki-laki,Dosen,3000000,S3,belum kawin,Dodu,Asakota,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Kinerja kurang bagus
+Fajar,47,laki-laki,Wiraswasta,0,S1,kawin,Sadia,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Belum ada yang cocok
+Maya,40,perempuan,Guru,500000,SMP,kawin,Santi,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Berkompeten,Visi Misi nya membosankan
+Ani,45,perempuan,Pengusaha,500000,SD,belum kawin,Sadia,Mpunda,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Lina,30,laki-laki,Karyawan Swasta,1500000,S3,belum kawin,Santi,Mpunda,Sudah Menentukan,Arahman-Ryan,Hati Nurani,Kinerja kurang bagus
+Agus,50,perempuan,Mahasiswa,1500000,D3,kawin,Paruga,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Visi Misi nya membosankan
+Sinta,31,perempuan,Karyawan Swasta,3000000,SMA,belum kawin,Paruga,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Calon nya Pragmatis
+Sinta,44,perempuan,Pengusaha,4000000,SMP,belum kawin,Kumbe,Asakota,Belum Menentukan,Ferry-Pawan,Hati Nurani,Belum ada yang cocok
+Sinta,37,perempuan,Pengusaha,7500000,S3,belum kawin,Santi,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Belum ada yang cocok
+Rudi,29,perempuan,Guru,10000000,D4,belum kawin,Rabadompu,Mpunda,Belum Menentukan,Ferry-Pawan,Berwibawa,Visi Misi nya membosankan
+Dharma,46,perempuan,Pengusaha,7500000,D2,kawin,Rabadompu,Raba,Belum Menentukan,Arahman-Ryan,Berwibawa,Visi Misi nya membosankan
+Ani,42,laki-laki,Pengusaha,1500000,SD,belum kawin,Paruga,Asakota,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Visi Misi nya membosankan
+Rudi,48,laki-laki,Wiraswasta,1500000,S1,belum kawin,Dodu,Mpunda,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Kinerja kurang bagus
+Maya,25,laki-laki,Pengusaha,5000000,S3,belum kawin,Sadia,Raba,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Kinerja kurang bagus
+Fajar,28,perempuan,Pengusaha,5000000,SMA,kawin,Santi,Raba,Sudah Menentukan,Arahman-Ryan,Berwibawa,Belum ada yang cocok
+Budi,32,laki-laki,Wiraswasta,2000000,D3,kawin,Sadia,Raba,Belum Menentukan,Arahman-Ryan,Hati Nurani,Calon nya Pragmatis
+Fajar,49,perempuan,Guru,1000000,D1,kawin,Monggonao,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Berwibawa,Calon nya Pragmatis
+Rudi,48,laki-laki,Guru,3000000,S3,kawin,Penaraga,Asakota,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Visi Misi nya membosankan
+Lina,33,perempuan,Mahasiswa,1500000,D3,kawin,Santi,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Punya Pengalaman,Kinerja kurang bagus
+Rudi,50,perempuan,Wiraswasta,1000000,D3,belum kawin,Santi,Asakota,Sudah Menentukan,Arahman-Ryan,Berwibawa,Visi Misi nya membosankan
+Rudi,49,laki-laki,Mahasiswa,5000000,D4,belum kawin,Rabangodu,Mpunda,Belum Menentukan,Arahman-Ryan,Berwibawa,Kinerja kurang bagus
+Lina,45,laki-laki,Karyawan Swasta,7500000,D1,belum kawin,Monggonao,Mpunda,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Kinerja kurang bagus
+Rina,22,laki-laki,Wiraswasta,500000,D3,kawin,Sadia,Asakota,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Visi Misi nya membosankan
+Fajar,42,laki-laki,Mahasiswa,3000000,S1,belum kawin,Sadia,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Punya Pengalaman,Visi Misi nya membosankan
+Ani,36,laki-laki,Mahasiswa,10000000,SMA,belum kawin,Rabadompu,Mpunda,Belum Menentukan,Ferry-Pawan,Berkompeten,Kinerja kurang bagus
+Budi,49,perempuan,Dosen,3000000,D4,belum kawin,Dodu,Asakota,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Calon nya Pragmatis
+Lina,50,perempuan,Guru,10000000,S2,kawin,Dodu,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Punya Pengalaman,Calon nya Pragmatis
+Sinta,47,laki-laki,Wiraswasta,2000000,D3,kawin,Santi,Raba,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Belum ada yang cocok
+Rudi,31,laki-laki,Karyawan Swasta,3000000,D4,belum kawin,Monggonao,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Berkompeten,Belum ada yang cocok
+Rina,34,laki-laki,Karyawan Swasta,1500000,SMP,kawin,Paruga,Asakota,Sudah Menentukan,Arahman-Ryan,Berwibawa,Visi Misi nya membosankan
+Rudi,22,laki-laki,Pengusaha,2000000,D2,belum kawin,Kumbe,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Kinerja kurang bagus
+Rina,48,perempuan,Wiraswasta,5000000,SMA,kawin,Monggonao,Mpunda,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Calon nya Pragmatis
+Maya,26,laki-laki,Guru,0,S2,kawin,Sadia,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Belum ada yang cocok
+Dharma,22,perempuan,Mahasiswa,2000000,D1,belum kawin,Dodu,Raba,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Visi Misi nya membosankan
+Fajar,28,perempuan,Karyawan Swasta,5000000,SMP,kawin,Penaraga,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Berwibawa,Calon nya Pragmatis
+Sinta,30,perempuan,Pengusaha,1500000,S3,belum kawin,Paruga,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Berkompeten,Calon nya Pragmatis
+Dharma,24,laki-laki,Pengusaha,10000000,S2,kawin,Rabadompu,Asakota,Sudah Menentukan,Arahman-Ryan,Berwibawa,Calon nya Pragmatis
+Budi,22,perempuan,Pengusaha,2000000,S2,kawin,Rabangodu,Raba,Belum Menentukan,Arahman-Ryan,Bisa Bekerja,Visi Misi nya membosankan
+Fajar,44,laki-laki,Guru,7500000,D2,kawin,Santi,Raba,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Kinerja kurang bagus
+Dharma,27,perempuan,Wiraswasta,1000000,SD,belum kawin,Santi,Mpunda,Sudah Menentukan,Arahman-Ryan,Hati Nurani,Calon nya Pragmatis
+Dharma,23,laki-laki,Pengusaha,4000000,S3,kawin,Penaraga,Mpunda,Belum Menentukan,Arahman-Ryan,Punya Pengalaman,Belum ada yang cocok
+Lina,46,laki-laki,Karyawan Swasta,0,D2,belum kawin,Rabangodu,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Calon nya Pragmatis
+Rina,39,laki-laki,Dosen,4000000,S1,belum kawin,Penaraga,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Visi Misi nya membosankan
+Rina,42,laki-laki,Dosen,0,SMA,belum kawin,Rabadompu,Asakota,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Belum ada yang cocok
+Maya,27,laki-laki,Pengusaha,7500000,S1,belum kawin,Monggonao,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Belum ada yang cocok
+Rina,35,laki-laki,Mahasiswa,7500000,D1,belum kawin,Kumbe,Mpunda,Belum Menentukan,Arahman-Ryan,Punya Pengalaman,Kinerja kurang bagus
+Sinta,47,perempuan,Karyawan Swasta,1000000,SMA,kawin,Monggonao,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Hati Nurani,Belum ada yang cocok
+Sinta,28,perempuan,Karyawan Swasta,3000000,D3,belum kawin,Monggonao,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Belum ada yang cocok
+Fajar,28,laki-laki,Mahasiswa,10000000,S3,kawin,Santi,Asakota,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Dharma,45,laki-laki,Guru,500000,D2,kawin,Kumbe,Raba,Belum Menentukan,Arahman-Ryan,Bisa Bekerja,Kinerja kurang bagus
+Lina,20,laki-laki,Mahasiswa,500000,SMP,kawin,Rabangodu,Mpunda,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Kinerja kurang bagus
+Agus,41,laki-laki,Karyawan Swasta,10000000,D2,kawin,Kumbe,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Calon nya Pragmatis
+Sinta,39,perempuan,Mahasiswa,1500000,S1,kawin,Rabadompu,Asakota,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Calon nya Pragmatis
+Dharma,29,perempuan,Pengusaha,500000,D2,kawin,Monggonao,Mpunda,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Belum ada yang cocok
+Fajar,47,perempuan,Dosen,7500000,D4,kawin,Rabangodu,Mpunda,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Maya,29,laki-laki,Dosen,4000000,S1,belum kawin,Rabangodu,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Calon nya Pragmatis
+Rina,40,perempuan,Mahasiswa,3000000,D2,kawin,Penaraga,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Berkompeten,Belum ada yang cocok
+Maya,44,perempuan,Guru,1500000,SMA,kawin,Monggonao,Mpunda,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Belum ada yang cocok
+Agus,39,laki-laki,Mahasiswa,10000000,D1,belum kawin,Dodu,Raba,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Calon nya Pragmatis
+Maya,21,laki-laki,Mahasiswa,7500000,D4,kawin,Paruga,Raba,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Belum ada yang cocok
+Ani,48,laki-laki,Karyawan Swasta,10000000,SD,kawin,Paruga,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Berkompeten,Calon nya Pragmatis
+Fajar,40,laki-laki,Guru,0,SMP,belum kawin,Paruga,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Calon nya Pragmatis
+Lina,32,laki-laki,Wiraswasta,7500000,S1,belum kawin,Penaraga,Mpunda,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Visi Misi nya membosankan
+Dharma,34,laki-laki,Guru,2000000,D3,belum kawin,Rabadompu,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Calon nya Pragmatis
+Rina,23,perempuan,Guru,5000000,S2,belum kawin,Paruga,Raba,Belum Menentukan,Ferry-Pawan,Berwibawa,Calon nya Pragmatis
+Dharma,29,perempuan,Mahasiswa,7500000,D1,kawin,Rabangodu,Raba,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Kinerja kurang bagus
+Budi,23,laki-laki,Pengusaha,1500000,S3,belum kawin,Paruga,Asakota,Sudah Menentukan,Arahman-Ryan,Hati Nurani,Calon nya Pragmatis
+Ani,24,perempuan,Guru,5000000,D4,belum kawin,Rabadompu,Asakota,Sudah Menentukan,Arahman-Ryan,Hati Nurani,Belum ada yang cocok
+Rina,24,perempuan,Wiraswasta,1500000,S2,kawin,Dodu,Mpunda,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Belum ada yang cocok
+Sinta,30,laki-laki,Dosen,2000000,D3,kawin,Penaraga,Asakota,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Belum ada yang cocok
+Sinta,41,perempuan,Pengusaha,7500000,SD,kawin,Santi,Asakota,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Calon nya Pragmatis
+Sinta,34,perempuan,Pengusaha,3000000,D2,belum kawin,Santi,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Visi Misi nya membosankan
+Rudi,26,perempuan,Wiraswasta,500000,S1,belum kawin,Penaraga,Mpunda,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Belum ada yang cocok
+Rudi,37,laki-laki,Guru,500000,S3,belum kawin,Rabangodu,Rasanae Timur,Belum Menentukan,Arahman-Ryan,Berwibawa,Visi Misi nya membosankan
+Lina,46,laki-laki,Dosen,4000000,D1,kawin,Rabadompu,Mpunda,Belum Menentukan,Arahman-Ryan,Punya Pengalaman,Kinerja kurang bagus
+Rina,28,laki-laki,Karyawan Swasta,3000000,D4,kawin,Sadia,Raba,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Belum ada yang cocok
+Maya,42,perempuan,Guru,1500000,SMP,belum kawin,Sadia,Asakota,Belum Menentukan,Ferry-Pawan,Berwibawa,Belum ada yang cocok
+Rina,27,laki-laki,Karyawan Swasta,500000,SMA,belum kawin,Rabadompu,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Kinerja kurang bagus
+Budi,44,perempuan,Pengusaha,3000000,D3,kawin,Paruga,Raba,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Visi Misi nya membosankan
+Fajar,40,laki-laki,Guru,500000,D1,belum kawin,Monggonao,Asakota,Belum Menentukan,Arahman-Ryan,Berwibawa,Kinerja kurang bagus
+Sinta,34,perempuan,Mahasiswa,3000000,S3,kawin,Monggonao,Asakota,Sudah Menentukan,Arahman-Ryan,Berwibawa,Kinerja kurang bagus
+Budi,45,perempuan,Karyawan Swasta,500000,S3,belum kawin,Dodu,Rasanae Timur,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Calon nya Pragmatis
+Fajar,41,perempuan,Mahasiswa,2000000,S1,kawin,Dodu,Asakota,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Calon nya Pragmatis
+Fajar,39,perempuan,Dosen,1000000,S3,kawin,Dodu,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Hati Nurani,Calon nya Pragmatis
+Ani,27,laki-laki,Guru,10000000,SMA,kawin,Santi,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Berkompeten,Belum ada yang cocok
+Agus,28,laki-laki,Mahasiswa,4000000,S2,belum kawin,Rabangodu,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Bisa Bekerja,Calon nya Pragmatis
+Budi,27,perempuan,Karyawan Swasta,1000000,SD,kawin,Santi,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Berwibawa,Belum ada yang cocok
+Lina,26,perempuan,Wiraswasta,0,D2,belum kawin,Rabadompu,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Belum ada yang cocok
+Sinta,27,laki-laki,Pengusaha,5000000,D2,belum kawin,Paruga,Raba,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Visi Misi nya membosankan
+Fajar,23,laki-laki,Pengusaha,5000000,S3,kawin,Penaraga,Asakota,Belum Menentukan,Arahman-Ryan,Berwibawa,Calon nya Pragmatis
+Ani,50,perempuan,Dosen,500000,D4,belum kawin,Dodu,Asakota,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Visi Misi nya membosankan
+Lina,32,laki-laki,Guru,7500000,S3,belum kawin,Paruga,Raba,Sudah Menentukan,Ferry-Pawan,Punya Pengalaman,Visi Misi nya membosankan
+Agus,42,laki-laki,Karyawan Swasta,4000000,SMP,belum kawin,Penaraga,Asakota,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Kinerja kurang bagus
+Dharma,25,laki-laki,Mahasiswa,4000000,S3,belum kawin,Rabadompu,Raba,Belum Menentukan,Ferry-Pawan,Hati Nurani,Kinerja kurang bagus
+Lina,41,laki-laki,Karyawan Swasta,3000000,D1,kawin,Rabangodu,Raba,Belum Menentukan,Arahman-Ryan,Berkompeten,Visi Misi nya membosankan
+Dharma,34,laki-laki,Guru,3000000,S1,kawin,Santi,Mpunda,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Kinerja kurang bagus
+Lina,31,laki-laki,Dosen,2000000,SD,belum kawin,Kumbe,Mpunda,Belum Menentukan,Ferry-Pawan,Berwibawa,Calon nya Pragmatis
+Sinta,39,perempuan,Karyawan Swasta,10000000,SMP,belum kawin,Rabangodu,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Calon nya Pragmatis
+Dharma,42,laki-laki,Wiraswasta,7500000,SMA,belum kawin,Santi,Mpunda,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Kinerja kurang bagus
+Rina,22,perempuan,Karyawan Swasta,5000000,D4,kawin,Santi,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Bisa Bekerja,Calon nya Pragmatis
+Ani,46,laki-laki,Guru,3000000,D2,kawin,Paruga,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Berwibawa,Visi Misi nya membosankan
+Rudi,48,perempuan,Pengusaha,5000000,D2,belum kawin,Kumbe,Mpunda,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Kinerja kurang bagus
+Ani,34,laki-laki,Wiraswasta,500000,D2,belum kawin,Kumbe,Asakota,Belum Menentukan,Ferry-Pawan,Berkompeten,Visi Misi nya membosankan
+Dharma,36,laki-laki,Pengusaha,500000,S1,kawin,Penaraga,Asakota,Belum Menentukan,Ferry-Pawan,Berkompeten,Belum ada yang cocok
+Fajar,42,laki-laki,Dosen,10000000,S1,kawin,Dodu,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Berwibawa,Belum ada yang cocok
+Rina,25,perempuan,Dosen,4000000,S3,belum kawin,Rabangodu,Asakota,Sudah Menentukan,Arahman-Ryan,Berkompeten,Visi Misi nya membosankan
+Fajar,23,laki-laki,Guru,0,S2,belum kawin,Monggonao,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Visi Misi nya membosankan
+Ani,36,laki-laki,Pengusaha,1500000,SMP,kawin,Monggonao,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Hati Nurani,Kinerja kurang bagus
+Maya,36,laki-laki,Karyawan Swasta,5000000,S3,belum kawin,Rabadompu,Mpunda,Belum Menentukan,Arahman-Ryan,Berwibawa,Kinerja kurang bagus
+Fajar,45,perempuan,Guru,500000,D2,kawin,Paruga,Asakota,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Kinerja kurang bagus
+Budi,50,perempuan,Pengusaha,2000000,SD,belum kawin,Paruga,Mpunda,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Belum ada yang cocok
+Agus,35,laki-laki,Wiraswasta,1500000,D3,kawin,Kumbe,Rasanae Timur,Belum Menentukan,Arahman-Ryan,Hati Nurani,Kinerja kurang bagus
+Lina,20,perempuan,Mahasiswa,0,D4,kawin,Paruga,Mpunda,Belum Menentukan,Ferry-Pawan,Berkompeten,Calon nya Pragmatis
+Maya,28,perempuan,Karyawan Swasta,5000000,S1,kawin,Rabangodu,Asakota,Sudah Menentukan,Arahman-Ryan,Berwibawa,Belum ada yang cocok
+Fajar,49,laki-laki,Dosen,1000000,D4,kawin,Santi,Raba,Sudah Menentukan,Arahman-Ryan,Berwibawa,Kinerja kurang bagus
+Fajar,49,perempuan,Guru,3000000,D4,kawin,Kumbe,Asakota,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Rina,23,perempuan,Mahasiswa,1500000,S2,belum kawin,Kumbe,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Agus,24,perempuan,Dosen,1000000,SMA,belum kawin,Rabangodu,Raba,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Kinerja kurang bagus
+Rudi,48,laki-laki,Wiraswasta,500000,SD,kawin,Dodu,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Berwibawa,Kinerja kurang bagus
+Sinta,39,perempuan,Pengusaha,1500000,S3,kawin,Rabangodu,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Berwibawa,Visi Misi nya membosankan
+Budi,30,laki-laki,Dosen,0,D4,kawin,Santi,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Berwibawa,Belum ada yang cocok
+Ani,21,laki-laki,Pengusaha,3000000,S2,belum kawin,Monggonao,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Berwibawa,Visi Misi nya membosankan
+Sinta,38,perempuan,Pengusaha,10000000,S1,belum kawin,Santi,Asakota,Sudah Menentukan,Arahman-Ryan,Berwibawa,Visi Misi nya membosankan
+Lina,31,perempuan,Dosen,10000000,SD,kawin,Monggonao,Mpunda,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Kinerja kurang bagus
+Rina,24,perempuan,Wiraswasta,5000000,D2,kawin,Paruga,Rasanae Timur,Belum Menentukan,Arahman-Ryan,Berwibawa,Belum ada yang cocok
+Rudi,39,perempuan,Guru,5000000,S3,belum kawin,Santi,Raba,Belum Menentukan,Arahman-Ryan,Berwibawa,Calon nya Pragmatis
+Budi,28,laki-laki,Pengusaha,5000000,SMA,kawin,Penaraga,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Belum ada yang cocok
+Rina,39,laki-laki,Dosen,2000000,S2,kawin,Paruga,Raba,Belum Menentukan,Arahman-Ryan,Berkompeten,Visi Misi nya membosankan
+Lina,34,perempuan,Wiraswasta,7500000,SD,belum kawin,Penaraga,Mpunda,Belum Menentukan,Arahman-Ryan,Bisa Bekerja,Visi Misi nya membosankan
+Rudi,45,perempuan,Pengusaha,10000000,S1,kawin,Kumbe,Raba,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Calon nya Pragmatis
+Dharma,34,laki-laki,Pengusaha,4000000,S3,kawin,Sadia,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Berwibawa,Belum ada yang cocok
+Rudi,33,perempuan,Wiraswasta,500000,SMA,belum kawin,Rabangodu,Mpunda,Sudah Menentukan,Ferry-Pawan,Berkompeten,Kinerja kurang bagus
+Maya,48,perempuan,Guru,7500000,D1,kawin,Kumbe,Mpunda,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Kinerja kurang bagus
+Rina,31,perempuan,Wiraswasta,10000000,D3,belum kawin,Paruga,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Hati Nurani,Calon nya Pragmatis
+Ani,31,laki-laki,Wiraswasta,5000000,SMA,belum kawin,Dodu,Mpunda,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Visi Misi nya membosankan
+Dharma,42,perempuan,Wiraswasta,7500000,SMP,belum kawin,Kumbe,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Berkompeten,Calon nya Pragmatis
+Lina,50,laki-laki,Dosen,10000000,D4,belum kawin,Sadia,Raba,Belum Menentukan,Arahman-Ryan,Bisa Bekerja,Calon nya Pragmatis
+Sinta,37,perempuan,Pengusaha,3000000,SMA,belum kawin,Kumbe,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Baik dan Bijak,Kinerja kurang bagus
+Budi,43,perempuan,Pengusaha,1000000,SMA,kawin,Santi,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Berkompeten,Belum ada yang cocok
+Rudi,39,perempuan,Mahasiswa,1500000,D2,kawin,Santi,Raba,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Calon nya Pragmatis
+Maya,35,perempuan,Dosen,7500000,SMP,belum kawin,Sadia,Asakota,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Fajar,21,laki-laki,Guru,500000,D1,belum kawin,Dodu,Asakota,Belum Menentukan,Arahman-Ryan,Berkompeten,Visi Misi nya membosankan
+Rina,34,laki-laki,Wiraswasta,4000000,S3,kawin,Monggonao,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Baik dan Bijak,Kinerja kurang bagus
+Lina,39,perempuan,Pengusaha,10000000,D1,belum kawin,Sadia,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Calon nya Pragmatis
+Rudi,22,perempuan,Pengusaha,2000000,D1,kawin,Santi,Asakota,Belum Menentukan,Ferry-Pawan,Punya Pengalaman,Calon nya Pragmatis
+Budi,45,laki-laki,Pengusaha,7500000,SMA,kawin,Kumbe,Mpunda,Belum Menentukan,Arahman-Ryan,Berwibawa,Belum ada yang cocok
+Ani,26,perempuan,Dosen,1500000,S3,kawin,Dodu,Raba,Belum Menentukan,Ferry-Pawan,Bisa Bekerja,Belum ada yang cocok
+Budi,40,laki-laki,Dosen,2000000,SD,belum kawin,Sadia,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Berkompeten,Calon nya Pragmatis
+Rina,23,perempuan,Wiraswasta,1000000,S2,belum kawin,Penaraga,Asakota,Belum Menentukan,Arahman-Ryan,Hati Nurani,Visi Misi nya membosankan
+Budi,41,perempuan,Wiraswasta,3000000,D3,belum kawin,Monggonao,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Belum ada yang cocok
+Rina,22,laki-laki,Mahasiswa,4000000,SMP,kawin,Paruga,Rasanae Barat,Belum Menentukan,Ferry-Pawan,Berkompeten,Visi Misi nya membosankan
+Lina,48,laki-laki,Karyawan Swasta,4000000,SD,belum kawin,Dodu,Mpunda,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Visi Misi nya membosankan
+Fajar,33,laki-laki,Dosen,1500000,S1,kawin,Rabadompu,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Visi Misi nya membosankan
+Rudi,24,perempuan,Mahasiswa,10000000,D1,kawin,Rabadompu,Rasanae Timur,Sudah Menentukan,Arahman-Ryan,Punya Pengalaman,Calon nya Pragmatis
+Ani,24,laki-laki,Wiraswasta,2000000,D2,belum kawin,Santi,Mpunda,Belum Menentukan,Arahman-Ryan,Berkompeten,Visi Misi nya membosankan
+Sinta,25,laki-laki,Guru,7500000,S1,belum kawin,Dodu,Asakota,Belum Menentukan,Arahman-Ryan,Bisa Bekerja,Calon nya Pragmatis
+Rina,40,laki-laki,Karyawan Swasta,2000000,S1,belum kawin,Dodu,Mpunda,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Visi Misi nya membosankan
+Dharma,46,laki-laki,Karyawan Swasta,10000000,SD,kawin,Penaraga,Rasanae Barat,Sudah Menentukan,Arahman-Ryan,Berwibawa,Belum ada yang cocok
+Maya,38,laki-laki,Mahasiswa,2000000,S3,belum kawin,Paruga,Asakota,Belum Menentukan,Ferry-Pawan,Berwibawa,Calon nya Pragmatis
+Agus,45,perempuan,Pengusaha,1000000,D2,kawin,Rabadompu,Asakota,Sudah Menentukan,Ferry-Pawan,Berkompeten,Calon nya Pragmatis
+Agus,37,laki-laki,Dosen,1500000,D2,belum kawin,Santi,Asakota,Sudah Menentukan,Arahman-Ryan,Berwibawa,Belum ada yang cocok
+Rudi,46,laki-laki,Mahasiswa,500000,D1,kawin,Paruga,Raba,Sudah Menentukan,Arahman-Ryan,Bisa Bekerja,Visi Misi nya membosankan
+Lina,23,perempuan,Karyawan Swasta,4000000,S2,belum kawin,Kumbe,Rasanae Barat,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Calon nya Pragmatis
+Lina,31,laki-laki,Mahasiswa,10000000,SMP,kawin,Kumbe,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Visi Misi nya membosankan
+Dharma,38,laki-laki,Wiraswasta,7500000,SMA,kawin,Paruga,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Hati Nurani,Visi Misi nya membosankan
+Maya,24,perempuan,Pengusaha,4000000,D4,belum kawin,Paruga,Asakota,Belum Menentukan,Arahman-Ryan,Berwibawa,Belum ada yang cocok
+Agus,42,laki-laki,Guru,5000000,SD,belum kawin,Dodu,Asakota,Sudah Menentukan,Arahman-Ryan,Baik dan Bijak,Visi Misi nya membosankan
+Fajar,42,laki-laki,Dosen,5000000,S2,kawin,Kumbe,Mpunda,Belum Menentukan,Arahman-Ryan,Baik dan Bijak,Kinerja kurang bagus
+Budi,48,laki-laki,Wiraswasta,2000000,D3,belum kawin,Rabadompu,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Hati Nurani,Visi Misi nya membosankan
+Rina,24,perempuan,Pengusaha,500000,S2,belum kawin,Monggonao,Rasanae Barat,Belum Menentukan,Arahman-Ryan,Berkompeten,Calon nya Pragmatis
+Rina,45,laki-laki,Karyawan Swasta,1500000,SMP,kawin,Santi,Rasanae Timur,Sudah Menentukan,Ferry-Pawan,Bisa Bekerja,Belum ada yang cocok
+Ani,31,laki-laki,Karyawan Swasta,0,S2,belum kawin,Santi,Rasanae Timur,Belum Menentukan,Ferry-Pawan,Berwibawa,Visi Misi nya membosankan
